@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="GUI"/>
+	<classpathentry kind="src" path="MVC"/>
+	<classpathentry kind="src" path="ObserverObservable"/>
+	<classpathentry kind="src" path="Thread"/>
+	<classpathentry kind="src" path="Socket"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
